@@ -1,0 +1,6 @@
+{
+  "name": "Lectio Divina Interactiva",
+  "description": "Una aplicación web para guiar a los usuarios a través de la práctica de la Lectio Divina católica, utilizando la API de Gemini para proporcionar pasajes bíblicos, reflexiones y oraciones.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
